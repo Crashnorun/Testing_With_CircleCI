@@ -14,5 +14,13 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crashnorun/Testing_With_CircleCI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Crashnorun/Testing_With_CircleCI/issues"
+  },
+  "homepage": "https://github.com/Crashnorun/Testing_With_CircleCI#readme"
 }
